@@ -2,6 +2,7 @@
 
 ### About Me 
 ![Profile Picture](images/profilepic_for_Portfolio.jpg)
+<img width="250" alt="image" src=*images/profilepic_for_Portfolio.jpg)* />
 Hello! I am a senior at Loyola University Maryland with deep academic interests and practical exposure to International Business law
 With skills in strategic risk analysis, legal research, client support, and case briefing, I am able to conduct legal risk analysis and achieve compliance with federal regulations. I am adept in using the Consolidated Screening List, Westlaw, and Python. 
 My analytical skill set, commitment to the legal field and passion for an ethical corporate legal structure make me a valuable asset. In my spare time, I like to play video games and do Pilates. 
