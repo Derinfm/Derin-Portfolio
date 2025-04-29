@@ -55,7 +55,7 @@ I accomplished this project by simply defining all the variables used in the for
 #### Side Business
  This is an Excel spreadsheet I created for a hypothetical personal styling business. All calculations were derived by utilizing excel formulas directly on the spreadsheet to boost efficiency and accuracy of the listed values.
 
-[Project 1 image](images/Project3_IMG.png)
+[Project 3 image](images/Project3_IMG.png)
 
 **Initial project idea:**
 I was tasked with the objective to create utilize deliberate formatting, structure and formula for an existing budget I had created for personal stylist which included commercialized products.
