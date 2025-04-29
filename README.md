@@ -37,7 +37,8 @@ I found this challenging as I had to develop a code for undesired capitalization
 #### Health Metrics Indicator
 This is a health metrics indicator coded which I programmed using python. This interactive application allows users to insert their height and weight to determine valid suggestions according to HMI data.
 
- - [insert project 1 screenshot here]
+![Project 1 image](images/Project2_IMG.png)
+
 **Initial project idea:**
 I was tasked with the objective of programming a health metrics indicator. 
 
@@ -54,7 +55,7 @@ I accomplished this project by simply defining all the variables used in the for
 #### Side Business
  This is an Excel spreadsheet I created for a hypothetical personal styling business. All calculations were derived by utilizing excel formulas directly on the spreadsheet to boost efficiency and accuracy of the listed values.
 
- - [insert project 1 screenshot here]
+[Project 1 image](images/Project3_IMG.png)
 
 **Initial project idea:**
 I was tasked with the objective to create utilize deliberate formatting, structure and formula for an existing budget I had created for personal stylist which included commercialized products.
